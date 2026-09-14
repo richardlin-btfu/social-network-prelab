@@ -1,1 +1,2 @@
 Social network development notes
+CSP-8 add login placeholder
