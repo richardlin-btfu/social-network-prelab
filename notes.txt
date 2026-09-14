@@ -1,2 +1,2 @@
 Social network development notes
-CSP-10 add profile picture placeholder
+CSP-10 add profile picture placeholder 
