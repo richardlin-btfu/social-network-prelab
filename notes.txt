@@ -1,1 +1,2 @@
 Social network development notes
+CSP-9 add profile editing placeholder
